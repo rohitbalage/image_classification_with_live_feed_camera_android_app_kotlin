@@ -161,14 +161,13 @@ class MainActivity : AppCompatActivity(), ImageReader.OnImageAvailableListener {
         imageConverter!!.run()
         rgbFrameBitmap = Bitmap.createBitmap(previewWidth, previewHeight, Bitmap.Config.ARGB_8888)
         rgbFrameBitmap?.setPixels(rgbBytes, 0, previewWidth, 0, 0, previewWidth, previewHeight)
-        val rotated = rotateBitmap(rgbFrameBitmap!!)
-     val results = classifier?.recognizeImage(rotated!!)
-
+        var rotated = rotateBitmap(rgbFrameBitmap!!)
+        val results = classifier?.recognizeImage(rotated!!)
         runOnUiThread {
-            findViewById<TextView>(R.id.textView).setText(" ")
+            findViewById<TextView>(R.id.textView).setText("")
            for (r in results!!)
            {
-               findViewById<TextView>(R.id.textView).append(r.title+" "+r.confidence+"\n")
+               findViewById<TextView>(R.id.textView).append(r.title+"   "+r.confidence+ "\n")
            }
         }
 
