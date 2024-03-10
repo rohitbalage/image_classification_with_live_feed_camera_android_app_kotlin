@@ -1,0 +1,18 @@
+com.example.livecamerafootagekotlin.app-recyclerview-1.1.0-0 C:\Users\Admin\.gradle\caches\transforms-3\117834dbd8139df20ef0eac88ce8dcf3\transformed\recyclerview-1.1.0\res
+com.example.livecamerafootagekotlin.app-cardview-1.0.0-1 C:\Users\Admin\.gradle\caches\transforms-3\1461764b4d2e1e79032c5c55238757a6\transformed\cardview-1.0.0\res
+com.example.livecamerafootagekotlin.app-jetified-appcompat-resources-1.2.0-2 C:\Users\Admin\.gradle\caches\transforms-3\3580301ca18a8ce78007b8f38674821e\transformed\jetified-appcompat-resources-1.2.0\res
+com.example.livecamerafootagekotlin.app-material-1.3.0-3 C:\Users\Admin\.gradle\caches\transforms-3\36eb6ad006f27fcf65d1d1dc426b1bc6\transformed\material-1.3.0\res
+com.example.livecamerafootagekotlin.app-coordinatorlayout-1.1.0-4 C:\Users\Admin\.gradle\caches\transforms-3\4b61fc2778e1c9aa48b5a992f4cf5148\transformed\coordinatorlayout-1.1.0\res
+com.example.livecamerafootagekotlin.app-core-1.3.2-5 C:\Users\Admin\.gradle\caches\transforms-3\57ddba438ee648d2f98fc9f8ade7295f\transformed\core-1.3.2\res
+com.example.livecamerafootagekotlin.app-constraintlayout-2.0.4-6 C:\Users\Admin\.gradle\caches\transforms-3\76fe0d2aebe149ede3f1104f95767ab9\transformed\constraintlayout-2.0.4\res
+com.example.livecamerafootagekotlin.app-jetified-viewpager2-1.0.0-7 C:\Users\Admin\.gradle\caches\transforms-3\7b76db198b032c6eeb27c728ebdfeb87\transformed\jetified-viewpager2-1.0.0\res
+com.example.livecamerafootagekotlin.app-transition-1.2.0-8 C:\Users\Admin\.gradle\caches\transforms-3\91061485c3195528ff7c4dc3968a1a3f\transformed\transition-1.2.0\res
+com.example.livecamerafootagekotlin.app-appcompat-1.2.0-9 C:\Users\Admin\.gradle\caches\transforms-3\c3aca583d561765a560550487b77b3ab\transformed\appcompat-1.2.0\res
+com.example.livecamerafootagekotlin.app-pngs-10 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\generated\res\pngs\debug
+com.example.livecamerafootagekotlin.app-resValues-11 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\generated\res\resValues\debug
+com.example.livecamerafootagekotlin.app-rs-12 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\generated\res\rs\debug
+com.example.livecamerafootagekotlin.app-mergeDebugResources-13 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.livecamerafootagekotlin.app-mergeDebugResources-14 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.livecamerafootagekotlin.app-merged_res-15 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\build\intermediates\merged_res\debug
+com.example.livecamerafootagekotlin.app-debug-16 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\debug\res
+com.example.livecamerafootagekotlin.app-main-17 D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\res
