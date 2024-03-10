@@ -15,11 +15,16 @@ import android.os.Bundle
 import android.util.Log
 import android.util.Size
 import android.view.Surface
+import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.imageclassificationkotlin.Classifier
 import com.example.imageclassificationlivefeed.CameraConnectionFragment
 import com.example.imageclassificationlivefeed.ImageUtils
 
 class MainActivity : AppCompatActivity(), ImageReader.OnImageAvailableListener {
+
+    var classifier : Classifier? = null;
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -41,6 +46,7 @@ class MainActivity : AppCompatActivity(), ImageReader.OnImageAvailableListener {
             setFragment()
         }
 
+        classifier = Classifier(assets, "mobilenet_v1_1.0_224.tflite", "mobilenet_v1_1.0_224.txt" , 224)
 
     }
 
@@ -155,6 +161,17 @@ class MainActivity : AppCompatActivity(), ImageReader.OnImageAvailableListener {
         imageConverter!!.run()
         rgbFrameBitmap = Bitmap.createBitmap(previewWidth, previewHeight, Bitmap.Config.ARGB_8888)
         rgbFrameBitmap?.setPixels(rgbBytes, 0, previewWidth, 0, 0, previewWidth, previewHeight)
+        val rotated = rotateBitmap(rgbFrameBitmap!!)
+     val results = classifier?.recognizeImage(rotated!!)
+
+        runOnUiThread {
+            findViewById<TextView>(R.id.textView).setText(" ")
+           for (r in results!!)
+           {
+               findViewById<TextView>(R.id.textView).append(r.title+" "+r.confidence+"\n")
+           }
+        }
+
         postInferenceCallback!!.run()
     }
 

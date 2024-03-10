@@ -8,6 +8,7 @@ MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Admin\.gradle\caches\transfo
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Admin\.gradle\caches\transforms-3\36eb6ad006f27fcf65d1d1dc426b1bc6\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\76fe0d2aebe149ede3f1104f95767ab9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\c3aca583d561765a560550487b77b3ab\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\3c4960660a845b3bce476217ddf1a887\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\7b76db198b032c6eeb27c728ebdfeb87\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\dab61b518f99edbf6e14522c9848bdb6\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\3580301ca18a8ce78007b8f38674821e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -38,6 +39,7 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\f0dc8d39cbe686cfa6bda0835b67f016\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\229d642c40afcf56b884b7f31032b539\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\aa94d35f6f2536dbe2d828dd4b4d9863\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\f5313fdac6f54319cbd64a5bb8a90784\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:2:1-11:12
 INJECTED from D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\AndroidManifest.xml:2:1-24:12
@@ -73,10 +75,14 @@ MERGED from [com.google.android.material:material:1.3.0] C:\Users\Admin\.gradle\
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Admin\.gradle\caches\transforms-3\36eb6ad006f27fcf65d1d1dc426b1bc6\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\76fe0d2aebe149ede3f1104f95767ab9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\76fe0d2aebe149ede3f1104f95767ab9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\3c4960660a845b3bce476217ddf1a887\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\3c4960660a845b3bce476217ddf1a887\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\57ddba438ee648d2f98fc9f8ade7295f\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\57ddba438ee648d2f98fc9f8ade7295f\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\67800ce9690cdf2d0fc437263227652d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\67800ce9690cdf2d0fc437263227652d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\f5313fdac6f54319cbd64a5bb8a90784\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\f5313fdac6f54319cbd64a5bb8a90784\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\57ddba438ee648d2f98fc9f8ade7295f\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -119,6 +125,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.g
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\76fe0d2aebe149ede3f1104f95767ab9\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\c3aca583d561765a560550487b77b3ab\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\c3aca583d561765a560550487b77b3ab\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\3c4960660a845b3bce476217ddf1a887\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\3c4960660a845b3bce476217ddf1a887\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:6:5-7:38
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\7b76db198b032c6eeb27c728ebdfeb87\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\7b76db198b032c6eeb27c728ebdfeb87\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\dab61b518f99edbf6e14522c9848bdb6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -179,6 +187,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\229d642c40afcf56b884b7f31032b539\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\aa94d35f6f2536dbe2d828dd4b4d9863\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\aa94d35f6f2536dbe2d828dd4b4d9863\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\f5313fdac6f54319cbd64a5bb8a90784\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\f5313fdac6f54319cbd64a5bb8a90784\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:6:5-7:38
 INJECTED from D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\AndroidManifest.xml
 INJECTED from D:\Machine Learning\Android based apps\ImageClassificationLiveFeedKotlin app\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
